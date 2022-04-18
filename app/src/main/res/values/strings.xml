@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Computer Scientist Biography</string>
+    <string name="label_name">Name:</string>
+    <string name="label_born">Born:</string>
+    <string name="label_age">Age:</string>
+    <string name="label_nationality">Nationality:</string>
+    <string name="label_location">Location:</string>
+    <string name="label_bio">Bio:</string>
+    <string name="label_full_name">Full Name:</string>
+    <string name="label_phone_no">Phone #:</string>
+    <string name="label_credit_card_no">Credit Card #:</string>
+    <string name="label_cvc">CVC:</string>
+    <string name="label_amount">Amount:</string>
+    <string name="label_receive_receipt">Receive Receipt:</string>
+    <string name="label_early_life">Early Life</string>
+    <string name="label_education">Education</string>
+    <string name="label_accomplishments">Accomplishments</string>
+    <string name="btn_label_biography">Biography</string>
+    <string name="btn_label_more_info">More Info</string>
+    <string name="btn_label_donate">Donate</string>
+    <string name="name">Alan Mathison Turing</string>
+    <string name="born_date">June 23, 1912</string>
+    <string name="born_location">(London, England)</string>
+    <string name="age">41 years old (deceased)</string>
+    <string name="death_location">Cheshire, England</string>
+    <string name="nationality">United Kingdom</string>
+    <string name="bio">Alan Mathison Turing OBE FRS was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. He is widely considered to be the father of theoretical computer science and artificial intelligence. </string>
+    <string name="early_life">Turing was born in Maida Vale, London, while his father, Julius Mathison Turing (1873–1947), was on leave from his position with the Indian Civil Service (ICS) at Chatrapur, then in the Madras Presidency and presently in Odisha state, in India. Turing\'s father was the son of a clergyman, the Rev. John Robert Turing, from a Scottish family of merchants that had been based in the Netherlands and included a baronet. Turing\'s mother, Julius\'s wife, was Ethel Sara Turing (née Stoney; 1881–1976), daughter of Edward Waller Stoney, chief engineer of the Madras Railways. The Stoneys were a Protestant Anglo-Irish gentry family from both County Tipperary and County Longford, while Ethel herself had spent much of her childhood in County Clare.</string>
+    <string name="early_life_2">Turing\'s father\'s civil service commission was still active and during Turing\'s childhood years, his parents traveled between Hastings in the United Kingdom and India, leaving their two sons to stay with a retired Army couple. At Hastings, Turing stayed at Baston Lodge, Upper Maze Hill, St Leonards-on-Sea, now marked with a blue plaque. The plaque was unveiled on 23 June 2012, the centenary of Turing\'s birth.
+</string>
+    <string name="education_1">Between January 1922 and 1926, Turing was educated at Hazelhurst Preparatory School, an independent school in the village of Frant in Sussex (now East Sussex). In 1926, at the age of 13, he went on to Sherborne School, a boarding independent school in the market town of Sherborne in Dorset, where he boarded at Westcott House. The first day of term coincided with the 1926 General Strike, in Britain, but Turing was so determined to attend, that he rode his bicycle unaccompanied 60 miles (97 km) from Southampton to Sherborne, stopping overnight at an inn.
+</string>
+    <string name="education_2">After Sherborne, Turing studied as an undergraduate from 1931 to 1934 at King\'s College, Cambridge, where he was awarded first-class honors in mathematics. In 1935, at the age of 22, he was elected a Fellow of King\'s College on the strength of a dissertation in which he proved the central limit theorem. Unknown to the committee, the theorem had already been proven, in 1922, by Jarl Waldemar Lindeberg.
+</string>
+    <string name="accomplishments_1">In 1938, he obtained his PhD from the Department of Mathematics at Princeton University. During the Second World War, Turing worked for the Government Code and Cypher School (GC&amp;CS) at Bletchley Park, Britain\'s codebreaking centre that produced Ultra intelligence. For a time he led Hut 8, the section that was responsible for German naval cryptanalysis. Here, he devised a number of techniques for speeding the breaking of German ciphers, including improvements to the pre-war Polish bombe method, an electromechanical machine that could find settings for the Enigma machine. Turing played a crucial role in cracking intercepted coded messages that enabled the Allies to defeat the Axis powers in many crucial engagements, including the Battle of the Atlantic.
+</string>
+</resources>
